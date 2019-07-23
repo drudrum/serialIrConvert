@@ -1,0 +1,11 @@
+{
+  "name": "serialIrConvert",
+  "description": "Convert IR code from serial port. Can be used with irplus android app.",
+  "version": "0.0.2",
+  "private": true,
+  "dependencies": {
+    "baseconvert": ">0.0.1",
+    "optimist": ">0.0.1"
+  },
+  "readme": ""
+}
